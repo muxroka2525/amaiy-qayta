@@ -1,0 +1,7 @@
+tr:nth-child(odd){
+    background-color: aqua;
+}
+tr:nth-child(1){
+    background-color: black;
+    color: white;
+}
