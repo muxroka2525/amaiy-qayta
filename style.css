@@ -5,3 +5,8 @@ tr:nth-child(1){
     background-color: black;
     color: white;
 }
+
+td i{
+    color: red;
+    font-size: 18px;
+}
